@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.charge{
+    max-width: 450px;
+    margin: 15px auto;
+}
+
+.charge{
+    background-color: rgb(40, 252, 188);
+    padding: 10px;
+    color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.charge{
+    text-decoration: none;
+    margin-left: auto;
+    color: rgb(3, 3, 3);
+}
